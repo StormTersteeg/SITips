@@ -30,33 +30,23 @@ var database = [
     icon: "directions_bus",
     color: "#5bff93",
     tips: [
-      {
-        title: "Biking",
-        content: "This is the biking tip content"
-      },
-      {
-        title: "Public<br>Transportation",
-        content: "This is the public transportation tip content"
-      },
-      {
-        title: "Electric Cars",
-        content: "This is the electric cars tip content"
-      },
+
     ]
   },
   {
-    category: "Energy",
-    icon: "flash_on",
+    category: "Language",
+    icon: "language",
     color: "#ffe064",
     tips: [
-      {
-        title: "Solar Panels",
-        content: "This is the solar panels tip content"
-      },
-      {
-        title: "Wind Turbines",
-        content: "This is the wind turbines tip content"
-      },
+
+    ]
+  },
+  {
+    category: "Community",
+    icon: "people",
+    color: "#c45bff",
+    tips: [
+
     ]
   },
 ]
