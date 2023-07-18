@@ -24,7 +24,6 @@ function loadCategories() {
     html_string += `
       <tile
         onclick="loadCategory(${i})"
-        ontouchstart="loadCategory(${i})"
       >
         ${category}
         <span class="material-icons ml-1">${icon}</span>
@@ -49,7 +48,6 @@ function loadCategory(index) {
     html_string += `
       <tile
         onclick="showTip(${index}, ${i})"
-        ontouchstart="showTip(${index}, ${i})"  
       >
         ${title}
       </tile>
