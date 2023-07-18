@@ -6,11 +6,29 @@ var database = [
     tips: [
       {
         title: "Trashcans",
-        content: "This is the trashcans tip content"
+        content: `
+When exploring Tokyo and in need of a trashcan, here's a simple tip to help you find one:<br><br>
+
+Look near convenience stores: Convenience stores such as <b>7-Eleven</b>, <b>FamilyMart</b>, or <b>Lawson</b> are everywhere in Tokyo and can be found on almost every street corner. These stores usually have trashcans outside or near their entrances.<br><br>
+
+If you can't find a trashcan nearby, you can carry a small plastic bag with you to collect your trash until you come across a trashcan.
+        `
       },
       {
         title: "Recycling",
-        content: "This is the recycling tip content"
+        content: `
+Recycling is an important aspect of waste management in Tokyo. Here's a helpful tip for recycling in the city. There are several types of garbage that get need to be separated:<br><br>
+
+<ul>
+  <li>Combustible garbage</li>
+  <li>Non-combustible garbage</li>
+  <li>P.E.T bottles</li>
+  <li>Cans</li>
+  <li>Oversized garbage</li>
+</ul>
+
+
+        `
       },
     ]
   },
@@ -19,10 +37,7 @@ var database = [
     icon: "restaurant",
     color: "#ff5b5b",
     tips: [
-      {
-        title: "Vegan Food",
-        content: "This is the vegan food tip content"
-      },
+
     ]
   },
   {
