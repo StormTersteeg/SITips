@@ -28,7 +28,7 @@ var database = [
   {
     category: "Transportation",
     icon: "directions_bus",
-    color: "#ff9f5b",
+    color: "#5bff93",
     tips: [
       {
         title: "Biking",
@@ -47,7 +47,7 @@ var database = [
   {
     category: "Energy",
     icon: "flash_on",
-    color: "#ffda5b",
+    color: "#ffe064",
     tips: [
       {
         title: "Solar Panels",
