@@ -45,7 +45,6 @@ back {
   right: 0px;
   width: 100%;
   cursor: pointer;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
 
 .hidden {
@@ -62,6 +61,7 @@ back .material-icons {
   background-color: #fff;
   padding:10px;
   border-radius: 100%;
+  box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
 
 .ml {
