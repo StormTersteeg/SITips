@@ -2,6 +2,7 @@ var database = [
   {
     category: "General Life",
     icon: "home",
+    color: "#59c1ff",
     tips: [
       {
         title: "Trashcans",
@@ -16,6 +17,7 @@ var database = [
   {
     category: "Food",
     icon: "restaurant",
+    color: "#ff5b5b",
     tips: [
       {
         title: "Vegan Food",

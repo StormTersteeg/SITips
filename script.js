@@ -24,6 +24,7 @@ function loadCategories() {
     html_string += `
       <tile
         onclick="loadCategory(${i})"
+        style="border: 5px ${database[i].color} solid"
       >
         ${category}
         <span class="material-icons ml-1">${icon}</span>
@@ -45,9 +46,11 @@ function loadCategory(index) {
   for (var i = 0; i < database[index].tips.length; i++) {
     var title = database[index].tips[i].title;
     var content = database[index].tips[i].content;
+    var color = database[index].color;
     html_string += `
       <tile
         onclick="showTip(${index}, ${i})"
+        style="border-left: 5px ${color} solid"
       >
         ${title}
       </tile>
