@@ -9,6 +9,7 @@ html, body {
 app {
   display: flex;
   justify-content: center;
+  align-content: center;
   align-items: center;
   flex-wrap: wrap;
   width: 100%;
