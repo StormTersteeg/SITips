@@ -39,6 +39,14 @@ tile:hover {
   opacity: .6;
 }
 
+/* media query smaller than 900px */
+@media (max-width: 900px) {
+  tile {
+    width: 160px;
+    height: 90px;
+  }
+}
+
 back {
   display:flex;
   justify-content: center;
