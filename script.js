@@ -69,7 +69,7 @@ function showTip(category_index, tip_index) {
   var html_string = "";
   html_string += `
     <info>
-      <div class="ml-2">
+      <div class="ml-2 mr-2">
         <h1>${database[category_index].tips[tip_index].title}</h1>
         <p>${database[category_index].tips[tip_index].content}</p>
       </div>
