@@ -1,0 +1,11 @@
+{
+  "name": "SITips",
+  "short_name": "SITips",
+  "start_url": "https://stormtersteeg.github.io/SITips/",
+  "scope": "https://stormtersteeg.github.io/SITips/",
+  "display": "fullscreen",
+  "display-mode": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "rgb(186,255,240)",
+  "lang": "en-US"
+}
