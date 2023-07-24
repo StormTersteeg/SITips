@@ -340,33 +340,6 @@ These apps can help you find the best route to your destination, and can also pr
         `
       },
       {
-        title: "Basic Japanese<br>Phrases",
-        content: `
-        Learning a few basic Japanese phrases can greatly enhance your travel experience in Japan.<br><br>
-        <b>Greetings:</b><br>
-        - <b>Hello:</b> こんにちは (Konnichiwa)<br>
-        - <b>Good morning:</b> おはよう (Ohayou)<br>
-        - <b>Good evening:</b> こんばんは (Konbanwa)<br>
-        - <b>Goodbye:</b> さようなら (Sayounara)<br>
-        <br>
-        <b>Polite Expressions:</b><br>
-        - <b>Please:</b> お願いします (Onegaishimasu)<br>
-        - <b>Thank you:</b> ありがとう (Arigatou)<br>
-        - <b>Excuse me / I'm sorry:</b> すみません (Sumimasen)<br>
-        <br>
-        <b>Yes / No:</b><br>
-        - <b>Yes:</b> はい (Hai)<br>
-        - <b>No:</b> いいえ (Iie)<br>
-        <br>
-        <b>Basic Questions:</b><br>
-        - <b>What is your name?</b> お名前は？ (Onamae wa?)<br>
-        - <b>How are you?</b> お元気ですか？ (Ogenki desu ka?)<br>
-        - <b>Where is the restroom?</b> トイレはどこですか？ (Toire wa doko desu ka?)<br>
-        <br><br>
-        Using these phrases politely will be appreciated by locals and can help you navigate daily interactions during your time in Japan.
-        `
-      },
-      {
         title: "Katakana Tips",
         content: `
         Katakana is a script used in Japanese for foreign words. Many signs and labels for non-Japanese items are written in katakana. Here are some common katakana words:
